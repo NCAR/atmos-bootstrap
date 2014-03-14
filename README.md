@@ -11,12 +11,12 @@ Version 0.1-alpha
 
 #### Desktop
 
-![Desktop](../blob/master/screenshots/desktop.png?raw=true)
+<img src="screenshots/desktop.png" width="600" height="500" alt="Desktop Screenshot">
 
 #### Tablet
 
-![Desktop](./blob/master/screenshots/ipad.png?raw=true)
+<img src="screenshots/ipad.png" width="600" height="1000" alt="iPad Screenshot">
 
 #### Phone
 
-![Desktop](./blob/master/screenshots/iphone.png?raw=true)
+<img src="screenshots/iphone.png" alt="iPhone Screenshot">
