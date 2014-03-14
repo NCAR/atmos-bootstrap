@@ -1,0 +1,84 @@
+body {
+    background: url('../images/bg.jpg') repeat-x #E3E4E6;;
+    padding: 20px 0px 0px 0px;
+    font-family: "Lucida Grande", arial, helvetica, sans-serif;
+    font-size: 12px;
+    color: #163B69;
+    line-height: 1.5;
+}
+#header-wrap {
+    height:81px;
+    background-color: #24487d;
+    margin-top: 15px;
+}
+#header {
+    height:81px;
+}
+#top-nav {
+    border: none;
+    background: transparent;
+    height: 25px;
+    min-height: 25px;
+    margin: 0;
+}
+#top-nav .navbar-collapse {
+    padding: 0;
+}
+#top-nav li a {
+    padding: 10px 10px;
+    color: white;
+    font-size: 14px;
+}
+#top-nav li a:hover {
+    background-color: #9C301F;
+}
+#app-title-column {
+    padding-top: 25px;
+    padding-left: 0;
+}
+#app-title-column a {
+    text-decoration: none;
+}
+#app-title, #app-title-highlight {
+    font-family: "UbuntuLight",Verdana,Arial,sans-serif;
+    font-size: 40px;
+    letter-spacing: normal;
+    color: #fff;
+    line-height: 25px;
+}
+#app-title-highlight {
+    color: #ff9900;
+}
+#nsf-header {
+    float: right;
+}
+#sub-header {
+    height:28px;
+    background-color: #003366;
+}
+
+#sub-header .nav>li>a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #fff;
+}
+#sub-header .nav>li>a:hover {
+    background-color: #9C301F;
+}
+#sub-header .nav-pills>li.active>a {
+    background-color: transparent;
+}
+main {
+    width: 90%;
+    background-color: #fff;
+    min-height: 600px;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+footer {
+    width: 90%;
+    margin: auto;
+    padding: 1% 5%;
+}
+
